@@ -35,5 +35,4 @@ clean-targets:         # directories to be removed by `dbt clean`
 # using the `{{ config(...) }}` macro.
 models:
   data_vault:
-    # Applies to all files under models/example/
 
